@@ -5,8 +5,7 @@ Intuition: Swap the consecutive elements in the array until the largest element
             in the array is bubbled up to the last index. 
 Time Complexity: Best case = Worst case = Average case = O(n^2)
 Space Complexity: O(1)
-Stability: NOT stable
-            TODO
+Stability: stable
 """
 
 def swap(A, index1, index2):
