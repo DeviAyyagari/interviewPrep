@@ -145,6 +145,8 @@ def test():
     root = delete(root, delete_key)
     delete_key = 65
     root = delete(root, delete_key)
+    delete_key = 44
+    root = delete(root, delete_key)
     display(root)
 
 
